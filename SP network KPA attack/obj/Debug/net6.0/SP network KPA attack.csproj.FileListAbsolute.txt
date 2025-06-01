@@ -1,0 +1,14 @@
+F:\Homework\Kripto\SP network KPA attack\bin\Debug\net6.0\SP network KPA attack.exe
+F:\Homework\Kripto\SP network KPA attack\bin\Debug\net6.0\SP network KPA attack.deps.json
+F:\Homework\Kripto\SP network KPA attack\bin\Debug\net6.0\SP network KPA attack.runtimeconfig.json
+F:\Homework\Kripto\SP network KPA attack\bin\Debug\net6.0\SP network KPA attack.dll
+F:\Homework\Kripto\SP network KPA attack\bin\Debug\net6.0\SP network KPA attack.pdb
+F:\Homework\Kripto\SP network KPA attack\obj\Debug\net6.0\SP network KPA attack.GeneratedMSBuildEditorConfig.editorconfig
+F:\Homework\Kripto\SP network KPA attack\obj\Debug\net6.0\SP network KPA attack.AssemblyInfoInputs.cache
+F:\Homework\Kripto\SP network KPA attack\obj\Debug\net6.0\SP network KPA attack.AssemblyInfo.cs
+F:\Homework\Kripto\SP network KPA attack\obj\Debug\net6.0\SP network KPA attack.csproj.CoreCompileInputs.cache
+F:\Homework\Kripto\SP network KPA attack\obj\Debug\net6.0\SP network KPA attack.dll
+F:\Homework\Kripto\SP network KPA attack\obj\Debug\net6.0\refint\SP network KPA attack.dll
+F:\Homework\Kripto\SP network KPA attack\obj\Debug\net6.0\SP network KPA attack.pdb
+F:\Homework\Kripto\SP network KPA attack\obj\Debug\net6.0\SP network KPA attack.genruntimeconfig.cache
+F:\Homework\Kripto\SP network KPA attack\obj\Debug\net6.0\ref\SP network KPA attack.dll

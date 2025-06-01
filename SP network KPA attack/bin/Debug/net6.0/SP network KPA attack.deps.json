@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SP network KPA attack/1.0.0": {
+        "runtime": {
+          "SP network KPA attack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SP network KPA attack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

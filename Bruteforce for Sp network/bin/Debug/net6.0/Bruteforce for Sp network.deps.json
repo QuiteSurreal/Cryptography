@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bruteforce for Sp network/1.0.0": {
+        "runtime": {
+          "Bruteforce for Sp network.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bruteforce for Sp network/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

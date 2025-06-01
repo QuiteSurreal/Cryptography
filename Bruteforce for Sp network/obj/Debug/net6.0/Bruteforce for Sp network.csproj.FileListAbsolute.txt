@@ -1,0 +1,14 @@
+F:\Homework\Kripto\Bruteforce for Sp network\obj\Debug\net6.0\Bruteforce for Sp network.GeneratedMSBuildEditorConfig.editorconfig
+F:\Homework\Kripto\Bruteforce for Sp network\obj\Debug\net6.0\Bruteforce for Sp network.AssemblyInfoInputs.cache
+F:\Homework\Kripto\Bruteforce for Sp network\obj\Debug\net6.0\Bruteforce for Sp network.AssemblyInfo.cs
+F:\Homework\Kripto\Bruteforce for Sp network\obj\Debug\net6.0\Bruteforce for Sp network.csproj.CoreCompileInputs.cache
+F:\Homework\Kripto\Bruteforce for Sp network\bin\Debug\net6.0\Bruteforce for Sp network.exe
+F:\Homework\Kripto\Bruteforce for Sp network\bin\Debug\net6.0\Bruteforce for Sp network.deps.json
+F:\Homework\Kripto\Bruteforce for Sp network\bin\Debug\net6.0\Bruteforce for Sp network.runtimeconfig.json
+F:\Homework\Kripto\Bruteforce for Sp network\bin\Debug\net6.0\Bruteforce for Sp network.dll
+F:\Homework\Kripto\Bruteforce for Sp network\bin\Debug\net6.0\Bruteforce for Sp network.pdb
+F:\Homework\Kripto\Bruteforce for Sp network\obj\Debug\net6.0\Bruteforce for Sp network.dll
+F:\Homework\Kripto\Bruteforce for Sp network\obj\Debug\net6.0\refint\Bruteforce for Sp network.dll
+F:\Homework\Kripto\Bruteforce for Sp network\obj\Debug\net6.0\Bruteforce for Sp network.pdb
+F:\Homework\Kripto\Bruteforce for Sp network\obj\Debug\net6.0\Bruteforce for Sp network.genruntimeconfig.cache
+F:\Homework\Kripto\Bruteforce for Sp network\obj\Debug\net6.0\ref\Bruteforce for Sp network.dll
